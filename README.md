@@ -9,28 +9,19 @@
     <img alt="WakaTime" src="https://wakatime.com/badge/user/5a7d5b04-7687-4a4f-91a4-d662e0063fbd.svg"/>
 <p>
 
-
 <details open>
-    <summary><h2>My Stats</h2></summary>
+<summary><h2>My Stats</h2></summary>
 
-<table border="0">
-    <tr>
-        <td>
-            <img alt="Markel Kaluhin's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D"/>
-        </td>
-        <td>
-            <img alt="Markel Kaluhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt="Markel Kaluhin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko"/>
-        </td>
-        <td>
-            <img alt="Markel Kaluhin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markel-Kaluhin&langs_count=20&layout=compact&theme=merko"/>
-        </td>
-    </tr>
-</table>
+<p align="left">
+    <img alt="Markel Kaluhin's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D"/>
+    <img alt="Markel Kaluhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github"/>
+</p>
+
+<p align="left">
+    <img alt="Markel Kaluhin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko"/>
+    <img alt="Markel Kaluhin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markel-Kaluhin&langs_count=20&layout=donut&theme=merko"/>
+</p>
+
 </details>
 
 **Markel-Kaluhin/Markel-Kaluhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
