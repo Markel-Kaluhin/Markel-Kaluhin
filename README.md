@@ -1,36 +1,33 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=21&pause=0&color=A1CA40&center=true&vCenter=true&repeat=false&width=435&lines=Markel+Kaluhin"/>
+    <img alt="Markel Kaluhin" src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=21&pause=0&color=A1CA40&center=true&vCenter=true&repeat=false&width=435&lines=Markel+Kaluhin"/>
 <p>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=21&pause=1000&color=A1CA40&center=true&vCenter=true&width=435&lines=12%2B+years+in+Software+Engineering;Full-stack+Development;Architectural+and+Infrastructure+Design;DevOps%2C+CI%2FCD%2C+DBA"/>
+    <img alt="Who is Markel Kaluhin" src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=21&pause=1000&color=A1CA40&center=true&vCenter=true&width=435&lines=12%2B+years+in+Software+Engineering;Full-stack+Development;Architectural+and+Infrastructure+Design;DevOps%2C+CI%2FCD%2C+DBA"/>
 <p>
-
-<br/>
 
 <p align="center">
-    <img src="https://wakatime.com/badge/user/5a7d5b04-7687-4a4f-91a4-d662e0063fbd.svg"/>
+    <img alt="WakaTime" src="https://wakatime.com/badge/user/5a7d5b04-7687-4a4f-91a4-d662e0063fbd.svg"/>
 <p>
 
-<br/>
 
 <details open>
     <summary><h2>My Stats</h2></summary>
 
-<table>
+<table border="0">
     <tr>
         <td>
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D" alt="Markel Kaluhin's GitHub Stats"/>
+            <img alt="Markel Kaluhin's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github" alt="Markel Kaluhin's GitHub Stats"/>
+            <img alt="Markel Kaluhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github"/>
         </td>
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko" alt="Markel Kaluhin's WakaTime Stats"/>
+            <img alt="Markel Kaluhin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markel-Kaluhin&langs_count=20&layout=compact&theme=merko" alt="Markel Kaluhin's Top Languages"/>
+            <img alt="Markel Kaluhin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markel-Kaluhin&langs_count=20&layout=compact&theme=merko"/>
         </td>
     </tr>
 </table>
