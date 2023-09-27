@@ -17,11 +17,11 @@
     <img width="48%" alt="Markel Kaluhin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko"/>
 </p>
 <p align="left">
-    <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github"/>
+    <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github&show_icons=true&include_all_commits=true"/>
     <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D"/>
 </p>
 <p align="center">
-    <img width="100%" alt="Markel Kaluhin's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Markel-Kaluhin&theme=merko"/>
+    <img width="100%" alt="Markel Kaluhin's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Markel-Kaluhin&theme=merko&include_all_commits=true"/>
 </p>
 </details>
 
