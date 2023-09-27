@@ -1,32 +1,23 @@
-<p align="center">
-    <img alt="Markel Kaluhin" src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=21&pause=0&color=A1CA40&center=true&vCenter=true&repeat=false&width=435&background=000000&lines=Markel+Kaluhin"/>
-<p>
-<p align="center">
-    <img alt="Who is Markel Kaluhin" src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=21&pause=1000&color=A1CA40&center=true&vCenter=true&width=435&background=000000&lines=12%2B+years+in+Software+Engineering;Full-stack+Development;Architectural+and+Infrastructure+Design;DevOps%2C+CI%2FCD%2C+DBA"/>
-<p>
+<h1 align="center">👋 Hey there, GitHub community!</h1>
+
+<p>😄 I'm Markel Kaluhin, a seasoned Senior Software Engineer with over 12 years of experience, crafting solutions that have consistently exceeded expectations and sailed smoothly into the hands of happy users.</p>
 
 <p align="center">
     <img alt="WakaTime" src="https://wakatime.com/badge/user/5a7d5b04-7687-4a4f-91a4-d662e0063fbd.svg"/>
 <p>
 
-
 <details open>
-<summary><h2>My Stats</h2></summary>
-<p align="left">
-    <img width="48%" alt="Markel Kaluhin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markel-Kaluhin&langs_count=8&layout=compact&theme=merko"/>
-    <img width="48%" alt="Markel Kaluhin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko"/>
-</p>
-<p align="left">
-    <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github&show_icons=true&include_all_commits=true"/>
-    <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D"/>
-</p>
-<p align="center">
-    <img width="100%" alt="Markel Kaluhin's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Markel-Kaluhin&theme=merko&include_all_commits=true"/>
-</p>
+<summary><h2 align="center">Who I am and what I do</h2></summary>
+    <p>🌟 While my journey has been primarily in commercial development, my heart beats for open source. I'm a newbie here, eager to dive into the vibrant world of open source, contribute to existing projects, and unleash my creativity to develop meaningful open-source initiatives.</p>
+    <p>🤔 I'm eager to connect and expand my horizons within the tech community. Whether it's sharing project insights, exchanging experiences, or even mentoring others, I value meaningful connections with fellow enthusiasts. Let's grow and learn from each other!. 🤝</p>
+    <p>💬 Ask me about anything related to software development methodologies, architecture designs, or effective management of development processes. I'm here to share my knowledge and engage in meaningful discussions.</p>
+    <p>📫 How to reach me: Feel free to reach out via email at <a href="mailto:markel.kaluhin@gmail.com">markel.kaluhin@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/markel-kaluhin/">LinkedIn</a>. You can also explore my projects and contributions on my <a href="https://github.com/Markel-Kaluhin">GitHub</a> profile.</p>
+    <p>⚡ Fun fact: In a pet project, I orchestrated a comprehensive digital transformation for my sister's business, crafting everything from front end to back end and the entire backend task ecosystem. This included handling recurring tasks as well as those triggered by user or third-party app initiatives. The project turned out so stellar that it not only captivated the interest of existing suppliers but also caught the eye of new ones, all eager to be a part of enhancing her business!</p>
+    <p>💡 Let's collaborate, innovate, and code for a brighter, more open future together! 🚀</p>
 </details>
 
 <details open>
-<summary><h2>My Technical Stack</h2></summary>
+<summary><h2 align="center">My Technical Stack</h2></summary>
 <h3>Languages</h3>
 <p align="left">
     <a href="https://markelkaluh.in/general/skills/python/">
@@ -74,7 +65,7 @@
     </a>
     <a href="https://markelkaluh.in/general/skills/angular/">
         <img alt="Angular" src="https://img.shields.io/badge/TypeScript-3178C6?logo=angular&logoColor=DD0531&label=Angular&labelColor=303030"/>
-    </a>    
+    </a>
     <a href="https://markelkaluh.in/general/skills/react/">
         <img alt="React" src="https://img.shields.io/badge/TypeScript-3178C6?logo=react&logoColor=389ECA&label=React&labelColor=23272F"/>
     </a>
@@ -89,13 +80,13 @@
 <h3>Most used Libraries</h3>
 <p align="left">
     <a href="https://markelkaluh.in/general/skills/numpy/">
-        <img alt="NumPy" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=NumPy"/>
+        <img alt="NumPy" src="https://img.shields.io/badge/Python-14354C?logo=numpy&logoColor=white&label=NumPy&labelColor=013243"/>
     </a>
     <a href="https://markelkaluh.in/general/skills/pandas/">
-        <img alt="Pandas" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=Pandas"/>
+        <img alt="Pandas" src="https://img.shields.io/badge/Python-14354C?logo=pandas&logoColor=white&label=Pandas&labelColor=150458"/>
     </a>
     <a href="https://markelkaluh.in/general/skills/sqlalchemy/">
-        <img alt="SQLAlchemy" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=SQLAlchemy"/>
+        <img alt="SQLAlchemy" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=424242&label=SQLAlchemy&labelColor=D71F02"/>
     </a>
     <a href="https://markelkaluh.in/general/skills/requests/">
         <img alt="Requests" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=Requests"/>
@@ -106,11 +97,11 @@
     <a href="https://markelkaluh.in/general/skills/asyncio/">
         <img alt="asyncio" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=asyncio"/>
     </a>
-    <a href="https://markelkaluh.in/general/skills/elasticsearch-dls/">
-        <img alt="Elasticsearch-DLS" src="https://img.shields.io/badge/Python-14354C?logo=typescript&logoColor=white&label=Elasticsearch-DLS"/>
+    <a href="https://markelkaluh.in/general/skills/pydantic/">
+        <img alt="Pydantic" src="https://img.shields.io/badge/Python-14354C?logo=pydantic&logoColor=white&label=Pydantic&labelColor=E92063"/>
     </a>
     <a href="https://markelkaluh.in/general/skills/alembic/">
-        <img alt="Alembic" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=Alembic"/>
+        <img alt="Alembic" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=Alembic&labelColor=6BA81E"/>
     </a>
     <a href="https://markelkaluh.in/general/skills/zope/">
         <img alt="ZOPE" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=ZOPE"/>
@@ -122,10 +113,10 @@
         <img alt="PyJWT" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=PyJWT"/>
     </a>
     <a href="https://markelkaluh.in/general/skills/boto3/">
-        <img alt="boto3" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=boto3"/>
+        <img alt="boto3" src="https://img.shields.io/badge/Python-14354C?logo=amazon-aws&logoColor=white&label=boto3&labelColor=FF9900"/>
     </a>
     <a href="https://markelkaluh.in/general/skills/qemu-img/">
-        <img alt="qemu-img" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=qemu-img"/>
+        <img alt="qemu-img" src="https://img.shields.io/badge/Python-14354C?logo=qemu&logoColor=white&label=qemu-img&labelColor=F01237"/>
     </a>
     <a href="https://markelkaluh.in/general/skills/pycli/">
         <img alt="pyCLI" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white&label=pyCLI"/>
@@ -279,23 +270,23 @@
 </p>
 </details>
 
-[//]: # (**Markel-Kaluhin/Markel-Kaluhin** is a ✨ _special_ ✨ repository because its `README.md` &#40;this file&#41; appears on your GitHub profile.)
-
-[//]: # (Here are some ideas to get you started:)
-
-[//]: # ()
-[//]: # (- 🔭 I’m currently working on ...)
-
-[//]: # (- 🌱 I’m currently learning ...)
-
-[//]: # (- 👯 I’m looking to collaborate on ...)
-
-[//]: # (- 🤔 I’m looking for help with ...)
-
-[//]: # (- 💬 Ask me about ...)
-
-[//]: # (- 📫 How to reach me: ...)
-
-[//]: # (- 😄 Pronouns: ...)
-
-[//]: # (- ⚡ Fun fact: ...)
+<details open>
+<summary><h2 align="center">My Stats</h2></summary>
+<p align="center">
+    <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github&show_icons=true&include_all_commits=true"/>
+</p>
+<p align="center">
+    <img alt="WakaTime" src="https://github-profile-trophy.vercel.app/?username=Markel-Kaluhin&theme=matrix&column=4&margin-w=15"/>
+<p>
+<p align="center">
+    <img width="100%" alt="Markel Kaluhin's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Markel-Kaluhin&theme=merko&include_all_commits=true"/>
+</p>
+<p align="center">
+    <img width="48%" alt="Markel Kaluhin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markel-Kaluhin&langs_count=8&layout=compact&theme=merko"/>
+    <img width="48%" alt="Markel Kaluhin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko"/>
+</p>
+<p align="center">
+    <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D"/>
+    <span> 👈After certain modifications to the GitHub API, this widget occasionally experiences delays. Due to its valuable metrics, I prefer not to remove it. If it doesn't display at times, please don't be alarmed.</span>
+</p>
+</details>
