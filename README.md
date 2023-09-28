@@ -167,6 +167,12 @@
     <a href="https://markelkaluh.in/general/skills/oracle-dbms/">
         <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
     </a>
+    <a href="https://markelkaluh.in/general/skills/sqlite/">
+        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
+    </a>
+    <a href="https://markelkaluh.in/general/skills/sqlserver/">
+        <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
+    </a>
 </p>
 
 <h3>NoSQL</h3>
@@ -176,6 +182,9 @@
     </a>
     <a href="https://markelkaluh.in/general/skills/elasticsearch/">
         <img alt="Elasticsearch" src="https://img.shields.io/badge/Elastic_Search-005571?logo=elasticsearch&logoColor=white"/>
+    </a>
+    <a href="https://markelkaluh.in/general/skills/aws-dynamodb/">
+        <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?logo=Amazon DynamoDB&logoColor=white"/>
     </a>
 </p>
 
@@ -214,7 +223,7 @@
     </a>
 </p>
 
-<h3>Infractructure</h3>
+<h3>Infrastructure</h3>
 <p align="left">
     <a href="https://markelkaluh.in/general/skills/docker/">
         <img alt="Docker" src="https://img.shields.io/badge/Docker-1D63ED?logo=docker&logoColor=white"/>
