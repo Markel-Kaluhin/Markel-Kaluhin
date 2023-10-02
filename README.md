@@ -281,6 +281,10 @@
 
 <details open>
 <summary><h2 align="center">My Stats</h2></summary>
+<div align="center"> 
+  <h4>Profile Views</h4>
+  <img src="https://profile-counter.glitch.me/Markel-Kaluhin/count.svg" />
+</div>
 <p align="center">
     <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Markel-Kaluhin&show_icons=true&theme=merko&rank_icon=github&show_icons=true&include_all_commits=true"/>
 </p>
