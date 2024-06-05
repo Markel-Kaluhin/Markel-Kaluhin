@@ -1,19 +1,29 @@
-<h1 align="center">👋 Hey there, GitHub community!</h1>
+<h1 align="center">Hi there! 👋 I'm Markel Kaluhin</h1>
 
-<p>😄 I'm Markel Kaluhin, a seasoned Senior Software Engineer with over 12 years of experience, crafting solutions that have consistently exceeded expectations and sailed smoothly into the hands of happy users.</p>
+<p>I'm a Senior Software Engineer from the USA, with over 12 years of experience in the tech industry. I specialize in Full-Stack development using Python and TypeScript to build web applications. I've built products from scratch, developed user interfaces and server-side components, and created, maintained, and optimized cloud infrastructures.</p>
 
 <p align="center">
     <img alt="WakaTime" src="https://wakatime.com/badge/user/5a7d5b04-7687-4a4f-91a4-d662e0063fbd.svg"/>
 <p>
 
 <details open>
-<summary><h2 align="center">Who I am and what I do</h2></summary>
-    <p>🌟 While my journey has been primarily in commercial development, my heart beats for open source. I'm a newbie here, eager to dive into the vibrant world of open source, contribute to existing projects, and unleash my creativity to develop meaningful open-source initiatives.</p>
-    <p>🤔 I'm eager to connect and expand my horizons within the tech community. Whether it's sharing project insights, exchanging experiences, or even mentoring others, I value meaningful connections with fellow enthusiasts. Let's grow and learn from each other!. 🤝</p>
-    <p>💬 Ask me about anything related to software development methodologies, architecture designs, or effective management of development processes. I'm here to share my knowledge and engage in meaningful discussions.</p>
-    <p>📫 How to reach me: Feel free to reach out via email at <a href="mailto:markel.kaluhin@gmail.com">markel.kaluhin@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/markel-kaluhin/">LinkedIn</a>. You can also explore my projects and contributions on my <a href="https://github.com/Markel-Kaluhin">GitHub</a> profile.</p>
-    <p>⚡ Fun fact: In a pet project, I orchestrated a comprehensive digital transformation for my sister's business, crafting everything from front end to back end and the entire backend task ecosystem. This included handling recurring tasks as well as those triggered by user or third-party app initiatives. The project turned out so stellar that it not only captivated the interest of existing suppliers but also caught the eye of new ones, all eager to be a part of enhancing her business!</p>
-    <p>💡 Let's collaborate, innovate, and code for a brighter, more open future together! 🚀</p>
+<summary><h2 align="center">Highlights</h2></summary>
+    <ul>
+      <li>Built and launched numerous products from scratch</li>
+      <li>Led teams, mentored developers, and interviewed people</li>
+      <li>Optimized cloud infrastructures for performance, scalability, and cost increasing</li>
+      <li>Streamlined development processes</li>
+      <li>Set up efficient CI/CD pipelines</li>
+    </ul>
+</details>
+
+<details open>
+<summary><h2 align="center">Contact Me</h2></summary>
+    <ul>
+      <li>Email: <a href="mailto:markel.kaluhin@gmail.com">markel.kaluhin@gmail.com</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/markel-kaluhin/">Markel Kaluhin</a></li>
+      <li>GitHub: <a href="https://github.com/Markel-Kaluhin">Markel Kaluhin</a></li>
+    </ul>
 </details>
 
 <details open>
@@ -295,11 +305,10 @@
     <img width="100%" alt="Markel Kaluhin's GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Markel-Kaluhin&theme=merko&include_all_commits=true"/>
 </p>
 <p align="center">
-    <img width="48%" alt="Markel Kaluhin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markel-Kaluhin&langs_count=8&layout=compact&theme=merko"/>
-    <img width="48%" alt="Markel Kaluhin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko"/>
+    <img align="center" width="48%" alt="Markel Kaluhin's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D"/>
+    <img align="center" width="48%" alt="Markel Kaluhin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markel-Kaluhin&langs_count=8&layout=compact&theme=merko"/>
 </p>
 <p align="center">
-    <img width="48%" alt="Markel Kaluhin's GitHub Stats" src="http://github-readme-streak-stats.herokuapp.com?user=Markel-Kaluhin&theme=merko&date_format=j%2Fn%5B%2FY%5D"/>
-    <span> 👈After certain modifications to the GitHub API, this widget occasionally experiences delays. Due to its valuable metrics, I prefer not to remove it. If it doesn't display at times, please don't be alarmed.</span>
+    <img width="48%" alt="Markel Kaluhin's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Merkamponius&theme=merko"/>
 </p>
 </details>
